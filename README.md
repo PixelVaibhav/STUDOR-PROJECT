@@ -68,4 +68,4 @@ A content-based recommendation approach suggests the top 3 courses based on hist
 
 ## Author
 
-[Your Name]
+Mehak
